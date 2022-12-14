@@ -11,7 +11,7 @@ El curso de Git y Github era lo que me hacia falta para mejorar profesionalmente
 - Trucos del profersor.
 - Ramas y sus cambios.
 - Push and pull.
-- Creado por Platzi team.
+
 
 Ve a ver los cursos (https://platzi.com//cursos/git-github/ " **A ver el curso** "
 # Hyperblog:smile: :smile: :tw-1f3c1:
